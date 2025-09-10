@@ -1,0 +1,28 @@
+{
+  "name": "dart-travel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo 'No tests'"
+  },
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.161.0",
+    "@react-three/fiber": "^8.15.10",
+    "@react-three/drei": "^9.105.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "tailwindcss": "^3.4.4",
+    "postcss": "^8.4.38",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.2.3"
+  }
+}
